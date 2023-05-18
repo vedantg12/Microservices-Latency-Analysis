@@ -2,10 +2,6 @@
 
 ## Project - Microservices Latency Analysis
 
-### Developers: 
-### Naishal Patel (np781)
-### Himani Patel (hhp46)
-
 ### Overview: 
 #### In this project we have developed 3 basic microservices for the ecommerce usecase. Our aim was to use state-of-the-art technology to improve latency. Also, we analysed these technologies with YCSB benchmark.
 
